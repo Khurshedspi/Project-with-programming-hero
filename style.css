@@ -1,13 +1,28 @@
-div#div1 {
-    color: blue;
-    border: 5px solid purple;
-    border-radius: 30px;
-    margin: 10px 13px 100px 13px;
-}
-
-div.ullist {
-    color: blue;
-    border: 5px solid purple;
-    border-radius: 30px;
-    margin: 10px 13px 100px 13px;
-}
+    div#div1 {
+        color: blue;
+        border: 5px solid purple;
+        border-radius: 30px;
+        margin: 10px 13px 100px 13px;
+    }
+    
+    div.ullist {
+        color: blue;
+        border: 5px solid purple;
+        border-radius: 30px;
+        margin: 10px 13px 100px 13px;
+    }
+    
+    div#form {
+        color: green;
+        border: 5px ridge purple;
+        border-radius: 15px;
+        font-size: 25px;
+        margin: 15px;
+    }
+    
+    .sherali {
+        color: blue;
+        border: 5px solid purple;
+        border-radius: 15px;
+        margin: 10px 13px 100px 13px;
+    }
